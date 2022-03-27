@@ -7,17 +7,17 @@ class ExpenseReport
   end
 
   def two_part_sum
-    find_sum_to_2020(2).reduce(:*)
+    find_sum_to2020(2).reduce(:*)
   end
 
   def three_part_sum
-    find_sum_to_2020(3).reduce(:*)
+    find_sum_to2020(3).reduce(:*)
   end
 
   private
 
   def find_sum_to2020(parts)
-    @data.permutation(parts).find { |perm| perm.sum == 2020 }
+    @data.combination(parts).find { |combo| combo.sum == 2020 }
   end
 end
 
