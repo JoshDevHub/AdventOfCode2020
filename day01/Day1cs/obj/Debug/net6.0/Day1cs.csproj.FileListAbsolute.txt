@@ -1,0 +1,15 @@
+/home/josh/Dev/aoc2020/day01/Day1cs/bin/Debug/net6.0/Day1cs
+/home/josh/Dev/aoc2020/day01/Day1cs/bin/Debug/net6.0/Day1cs.deps.json
+/home/josh/Dev/aoc2020/day01/Day1cs/bin/Debug/net6.0/Day1cs.runtimeconfig.json
+/home/josh/Dev/aoc2020/day01/Day1cs/bin/Debug/net6.0/Day1cs.dll
+/home/josh/Dev/aoc2020/day01/Day1cs/bin/Debug/net6.0/Day1cs.pdb
+/home/josh/Dev/aoc2020/day01/Day1cs/obj/Debug/net6.0/Day1cs.csproj.AssemblyReference.cache
+/home/josh/Dev/aoc2020/day01/Day1cs/obj/Debug/net6.0/Day1cs.GeneratedMSBuildEditorConfig.editorconfig
+/home/josh/Dev/aoc2020/day01/Day1cs/obj/Debug/net6.0/Day1cs.AssemblyInfoInputs.cache
+/home/josh/Dev/aoc2020/day01/Day1cs/obj/Debug/net6.0/Day1cs.AssemblyInfo.cs
+/home/josh/Dev/aoc2020/day01/Day1cs/obj/Debug/net6.0/Day1cs.csproj.CoreCompileInputs.cache
+/home/josh/Dev/aoc2020/day01/Day1cs/obj/Debug/net6.0/Day1cs.dll
+/home/josh/Dev/aoc2020/day01/Day1cs/obj/Debug/net6.0/refint/Day1cs.dll
+/home/josh/Dev/aoc2020/day01/Day1cs/obj/Debug/net6.0/Day1cs.pdb
+/home/josh/Dev/aoc2020/day01/Day1cs/obj/Debug/net6.0/Day1cs.genruntimeconfig.cache
+/home/josh/Dev/aoc2020/day01/Day1cs/obj/Debug/net6.0/ref/Day1cs.dll
