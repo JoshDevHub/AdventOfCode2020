@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "PkVfyf6YMRb/b5rgzViu1k93X1BFd6kfLarLGPPSQOe3i0wApS/pUQ8LaDSULVshrvm5I0y8UpaLphfkzo1iTA==",
+  "dgSpecHash": "5DdNBGiElPhJpOKu+Z2myFqOoxiM5KrqOwZGLVjrwr02TR7i3/GRe5nOjPB6fe0q1MXgwOr/3akZQ6VHaUbg4A==",
   "success": true,
   "projectFilePath": "/home/josh/Dev/aoc2020/day02/Day2cs/Day2cs.csproj",
   "expectedPackageFiles": [],
